@@ -1,0 +1,2 @@
+kalian perlu mendownload file program dan flag nya, pastikan di satu directory yang sama , lalu baca isi code program nya maka kamu akan menemukan
+ password yang benar kemudian jalankan program nya dan masukan pw yang benar
