@@ -1,0 +1,3 @@
+ctf ini akan memberikan kita log windows dalam bentuk vtx, jadi export dulu menjadil xml dengan "evtxexport file.evtx > file.xml"
+karena di soal pekerja tersebut mengintall sebuah softwate installer ternyata berada di even id 75, setelah di cek bentuk kode nya dalama bentuk base64
+akhirnya saya lakukan command "grep "=" file.xml" dapat 3 pecahan flag dalam base64, kemudian di decode dan gabungkan
