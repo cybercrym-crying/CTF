@@ -1,2 +1,0 @@
-pertama cek "git branch" lalu pindah ke branch yang ada
-dengan menggunakan "git checkout nama branch" dan kumpulkan flag nya

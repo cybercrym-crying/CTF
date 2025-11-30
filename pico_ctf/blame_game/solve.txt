@@ -1,1 +1,0 @@
-Can Solve by using "git log --oneline" and then see the difference massage commit, after that you can copy the hash then "git checkout hash", copt the flag

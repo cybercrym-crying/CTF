@@ -1,7 +1,0 @@
-untuk solve soal ini kita perlu memahami dahulu program flag.c yang di berikan, di dalam nya ternyata program menembak big endian dan little endian,
-dimana menembak kata dalam bentuk hex jika diberi kata "loh" hasilnya yaitu :
-little indean	= 686f6c (urutan terbalik)
-big indean	= 6c6f68 (urutan normal  )
-setelah benar menembak maka akan diberi flag jika kita sudah connect ke "nc" atau start ctf
-
-

@@ -1,8 +1,0 @@
-pertama cek isi partisi nya dengan "fdisk -l disko-2.dd" keluaran:
-
-Device      Boot Start    End Sectors Size Id Type
-disko-2.dd1       2048  53247   51200  25M 83 Linux
-disko-2.dd2      53248 118783   65536  32M  b W95 FAT32
-
-berdasarkan hint flag berada di partisi bernama linux, ekstrak partisi tersebut dengan "dd if=disko-2.dd of=partition.img bs=512 skip=2048 count=51200"
-setelah itu cek isi nya, jangan di mount, dikarenakan kita tidak akan bisa mengakses semua isinya, cukup baca langsung partisi nya, gunakan command "strings partition.img | grep "picoCTF" "

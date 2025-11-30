@@ -1,3 +1,0 @@
-kalian tidak perlu mencari satu persatu flag nya, kalian tinggal 
-gunakan command "grep "pico" -R . " ini akan mencari semua isi teks
-yang ada di path folder sekarang

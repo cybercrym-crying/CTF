@@ -1,2 +1,0 @@
-untuk soal ini aku mengecek dahulu partisi utamanya, lalu mengambil nama file atau isi file beranam pico atau flag
-saat sudah di dapa aku tinggal ambil inode dan baca menggunakan icat

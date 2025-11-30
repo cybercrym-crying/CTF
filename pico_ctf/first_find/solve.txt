@@ -1,1 +1,0 @@
-kalian perlu melakukan command "find . -type f -name "uber-secret.txt" " lalu cat ke file tersebut

@@ -1,4 +1,0 @@
-pada ctf ini soal nya berupa operasi bit dan di kerjakan pada server pico
-setelah terhubung dengan "nc" kita akan di beri 2 binary yang akan
-dilakukan sebuah operasi seperti + - | << >> dll, dan terakhir
-di minta jawaban hexadecimal dari jawaban terakhir 

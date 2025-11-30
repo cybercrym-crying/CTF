@@ -1,1 +1,0 @@
-sama seperti pw_crack-1 bedanya kita hanya perlu memahami password nya yang berupa hexadecimal lalu di translate ke ASCII karakter

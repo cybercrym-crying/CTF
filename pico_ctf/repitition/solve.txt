@@ -1,2 +1,0 @@
-flag ini di decode menggunakan base64 sehingga kalian perlu melakukan "cat enc_flag | base64 -d"
-kalian juga bisa menggunakan web decode CyberChef atau menggunakan program python
