@@ -1,0 +1,2 @@
+kita bisa membuat sricpt python untuk mengekstrak 1000 file ini itu aja saja sih mweheheh
+total keseluruhan file tar bisa 4GB

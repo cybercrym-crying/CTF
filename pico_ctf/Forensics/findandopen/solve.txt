@@ -1,0 +1,2 @@
+kalian bisa cek dahulu file pcap nya pakai wireshark, saat kita menemukan potongan flag dalam base 64 dan disuruh cek file zip nya, kita pasti bingung pass nya apa
+apa mungkin flag potongan ini adalh pass nya, bingo dapat flag nya

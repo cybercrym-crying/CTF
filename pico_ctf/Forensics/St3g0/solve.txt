@@ -1,0 +1,1 @@
+pada soal ini berupa flag yang di sembunyikan menggunakan LSB jadi kalian bisa cek menggunakan "zsteg"

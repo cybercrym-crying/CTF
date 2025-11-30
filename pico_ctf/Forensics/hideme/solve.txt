@@ -1,0 +1,1 @@
+jika di cek dengan xxd dan binwal file gambar ini memiliki selipan zip di dalamnya, jadi tinggal ekstrak dan dapat flag

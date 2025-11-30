@@ -1,0 +1,2 @@
+untuk soal ini kita harus tau dahulu bahwa apk itu sebenarnya adalah zip, jadi bisa di ekstrak "unzip nama_file.apk -d nama_keluaran"
+lalu grep pico atau flag, jika di lihat flag di encode dnegan hex, bingo found the flag

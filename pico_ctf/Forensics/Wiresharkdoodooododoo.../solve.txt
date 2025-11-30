@@ -1,0 +1,2 @@
+pada log paket ini kita bisa langsung saja cek pada bagian http karena http itu tidak seperti https yang sudah aman, di http kita bisa lihat apa yang terjadi
+cari paket yang aneh dan bingo, klik paket tersebut lalu follow http stream, di dapat sebuah bentuk flag yang di secura menggunakan rot

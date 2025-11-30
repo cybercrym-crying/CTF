@@ -1,0 +1,8 @@
+pada program ini kita harus membaca dahulu log tftp
+dimana hasil data  nya bisa kita ambil/ekstrak
+kalian bisa baca plan dan pasang steghide nya
+lalu gunakan steghide untuk di ketika gambar
+kalian bisa menemukan pass di antara pesan mereka
+dan coba di semua gammbar
+jujur saja untuk pass nya aku cari di internet
+dan ini menjadi pelajaran untuk ku unutk lebih memperhatikan setiap pembicaraan 

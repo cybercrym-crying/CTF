@@ -1,0 +1,1 @@
+kalian perli mengconvert decimal ke binary, kalian bisa pakai web untuk solve ini

@@ -1,0 +1,1 @@
+pada ctf ini terdapat flag yang di sembunyikan juga dengan lsb tinggal pakai "zsteg" saja

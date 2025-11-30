@@ -1,0 +1,1 @@
+tinggal lihat meta data dengan exiftool

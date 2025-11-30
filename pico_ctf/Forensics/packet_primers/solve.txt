@@ -1,0 +1,1 @@
+kalian bisa mengecek setiap isi data komunikasi nya dengan klik pilihan komunikasi dan pilih follow, tcp stream, maka akan terlihat flag atau isi komunikasinya

@@ -1,0 +1,2 @@
+baca dan cari dahulu cara decrypt file nya di log, keluarkan isi file dari dalam file log pcap ini pake binwalk
+lalu decrypt

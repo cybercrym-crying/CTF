@@ -1,0 +1,1 @@
+kalian bisa menggunakan "srch_strings" pada disk nya kemudian "grep" nama flag nya

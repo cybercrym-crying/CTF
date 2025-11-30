@@ -1,0 +1,2 @@
+file pptm ini bisa di cek isinya dengan teks editor karena mengandung xml, tinggal di cek saja nama yang mencurigakan dan 
+decrypt flag dengan base64

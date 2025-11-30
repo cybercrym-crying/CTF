@@ -1,0 +1,2 @@
+kalian bisa mengecek disk image nya dengan "mmls" , dan cek partisi utama nya, lalu cari `down-at-the-bottom.txt`
+untuk mengecek isi file nya gunakan "icat" ke partisi dan inode nya

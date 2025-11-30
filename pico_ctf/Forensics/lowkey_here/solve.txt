@@ -1,0 +1,1 @@
+kalian tinggal grep saja flag nya dari dalam file tersebut

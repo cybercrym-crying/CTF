@@ -1,0 +1,2 @@
+dalam soal nya di minta untuk mengecek panjang sector pada partisi linux gunakan "mmls disk.img" kemudian baca info nya lalu connect ke "nc"
+lalu input masukan yang diminta

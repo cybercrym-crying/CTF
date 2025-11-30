@@ -1,0 +1,2 @@
+jika di cek isi nya file pdf ini memiliki beberapa bagian dimana teks nya tertutup, tapi bisa kalian select dan salin sehingga flag
+nya di dapatkan

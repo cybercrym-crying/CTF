@@ -1,0 +1,1 @@
+jika dilihat awalnya file ini berpua txt, tapi jika di lihat  menggunakan "xxd" hex nya sebenarnya berupa PNG
