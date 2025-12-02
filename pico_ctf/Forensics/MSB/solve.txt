@@ -1,0 +1,3 @@
+Ok dari judul nya kita bisa tau bahwa ini merupaka steganografi yang menggunakan MSB karena dari gambar yang di berikan terlihat bahwa warna gambar nya rusak efek dari perubahan di MSB
+jadi saya menggunakan Stegsolve dan mengidentifikasi MSB di RGB nya berdasarkan baris sehingga saya menemukan sebuah catatan/tulisan ketika saya simpan catatan itu lalu saya pakai
+command strings dan grep "pico", BINGO kita dapat flag nya

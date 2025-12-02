@@ -1,0 +1,2 @@
+jadi untuk solve nya kalian bisa menjalankan dahulu file sh nya yang awalnya berbentu
+pdf ketika sudah dapat kalian bisa pakai binwalk dan cek struktur nya pakai hex

@@ -1,0 +1,7 @@
+kalian bisa cek dan sesuaikan file header nya dahulu lalu jalanskan file nya
+karena berdasarkan header file ini berupa sh, kalian bakal dapat file flag
+yang di mana di dalam nya ada file juga jadi kalian bisa pakai binwalk untuk
+ekstrak file tersembunyi nya, kemudia saat kalian sudah mulai dapat file kompressi
+kalian bisa cek tipe kompresi nya dengan xxd lalu ekstrak sesuai kompresi nya
+kebetulan ini nested kompresi jadi ekstrak aja terus sampai flag nya di dapat
+lalu nanti flag nya juga berupa hex jadi kalian bisa transalte ke ascii

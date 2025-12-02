@@ -1,0 +1,4 @@
+yeppppp soal ini memanipulasi struktur dari jpg kalian bisa cek pakai xxd, yang dimana hex nya  menggunakan little endian bukan big endian,
+jadi saya menulis sebuah script yang ngebalik setiap 4 byte menjadi big endian, 
+kalau kalian belum tau apa itu endian cari aja di google saya saranin jangan ubah
+1 1 karena bisa berjam jam

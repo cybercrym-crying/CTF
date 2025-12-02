@@ -1,0 +1,3 @@
+untuk soal ini kita lihat bahwa file ini rusak, saat di cek ternyata struktur nya telah di ubah yang awalnya berupa png, pada size of chunk nya juga rusak jadi kita perbaiki dahulu
+dengan hex edit setelah gambar bisa di buka kita mengetahui bahwa ini hanya gambar merah, dan setelah saya baca baca beberapa  write up tentang png, kemungkinan gambar ini memiliki
+flag yang dapat di lihat dengan mengedit gambar dulu seperti menaikan kontras, bingo flag nya dapat
