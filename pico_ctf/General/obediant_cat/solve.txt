@@ -1,0 +1,1 @@
+kalian hanya perlu membuka file atau membaca file dengan command cat

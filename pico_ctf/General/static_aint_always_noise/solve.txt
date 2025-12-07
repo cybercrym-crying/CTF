@@ -1,0 +1,2 @@
+Jadi kalian tinggal download kedua file dan pastikan berada di dir yang sama kemudia berikan permission execute pada file.sh
+dan tinggal jalankan file.sh tadi maka kalian aka mendapat file.txt yang bisa kalian baca dan cari flag nya

@@ -1,0 +1,5 @@
+oke tantangan ini nambah ilmu baru juga bagi ku dimana, saaat kita mmls disk.img nya kita cari partisi yang utama, kita lihat ada file flag paling bawah yang udah di enkripsi
+dan pake salted kalian bisa cari salted dalam enkripsi itu apa, nah disini aku agak bingung karena flag.txt nya itu sepertinya hanya tipuan yang asli ada di flag.txt.enc
+aku bingung dia enkripsi pake apa dan salt yang di tambah itu berupa apa tapi aku ngeh diatas flag.txt itu ada file .ash.history pikir ku bisa aja ini file jadi petunjuk
+benar saja bahwansannya saat ku cari info file ini menyimpan history shell, jadi kita bisa melihat dia enkripsi pakai openssl dan sha256 dengan salt tambahan dari nya
+akhirnya file flag.txt.enc itu aku decrypt kembali dengan petunjuk tadi, BINGO YOU FOUND THE FLAG

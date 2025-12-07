@@ -1,0 +1,20 @@
+
+rule pack {
+    strings:
+        $var1 = "UPX1"
+        $var2 = "UPX!"
+        $var3 = "UPX0"
+    condition:
+        $var1 and $var2 or $var3 
+}
+rule unpack {        
+    strings:
+        $var1 = "Welcome to the YaraRules0x100 challenge!" ascii wide 
+        $var2 = "<requestedExecutionLevel level='asInvoker' uiAccess='false' />"
+        $var3 = "VirtualProtect"
+        $var4 = "DebugActiveProcess"
+        $var5 = "AdjustTokenPrivileges"
+        $var6 = "LookupPrivilegeValueW"
+        $var7 = "CreateToolhelp32Snapshot"
+    condition: 
+        4 of them       }

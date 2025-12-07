@@ -1,0 +1,3 @@
+Pada tantangan ini kita di beri sebuah program python,password dan flag yang di enkripsi, jadi program ini setelah saya pahami sebuah decode dan encode program dimana -e sebagai encode
+dan -d sebagai decode, karena kita ingin melihat file flag yang di encode kita tinggal decode saja dengan program python ini dengan cara "python3 nama_file.py -d file_flag"
+BINGO YOU FOUND THE FLAG 

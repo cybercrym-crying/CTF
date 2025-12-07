@@ -1,0 +1,5 @@
+jadi setelah ku buka file nya ternyata tidak benar benar kosong, kemudian aku cek file nya dengan xxd, aku nemuin pola e28083 
+dan 20 sebagai space setelah membaca beberapa write up aku awalnya berpikir e2,80 dan 83 itu 1 ternyata haruslah di gabung
+menjadi e28083 == 1 dan 20 == 0 jadi aku buat scriptk kecil yang dimana bakal ngubah pola hex tadi menjadi binary kemudian ku decode
+sehingga...,BINGO WE FOUND THE FLAG
+

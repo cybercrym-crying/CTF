@@ -1,0 +1,6 @@
+untuk ini kalian perlu mengetahui dulu ssh itu apa, dan pakai command ssh itu gimana,
+setelah itu kita langsung aja di beri disk ketika di analisis ada sebuah key untuk
+terhubung ke ssh yang tersedia dari tantanganan, langsung saja saya salin key nya
+lalu sebelum di gunakan pastikan untuk izin file nya hanya kalian yang bisa akses
+jadi pakaI chmod 600 nama_file kemudian tinggal input key nya deh saat ingin 
+terhubung, BINGO YOU FOUND THE FLAG

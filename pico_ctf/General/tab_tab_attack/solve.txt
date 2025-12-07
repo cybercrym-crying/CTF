@@ -1,0 +1,2 @@
+pada tantangan ini kita ekstrak dahulu file zip nya kemudia gunakan tree buat lihat secara rekursif isi dir nya ternyata ada sebuah file di akhir yang berupa sh, jadi kita tinggal jalankan
+file tersebut. BINGO YOU FOUND THE FLAG

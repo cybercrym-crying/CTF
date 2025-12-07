@@ -1,0 +1,3 @@
+jadi pada log jaringan ini ketika saya cek dengan wireshark saya nemuin pada bagian awal itu ada log jaringan yang berisikan data dengan len 4
+pas saya cek isi datanya bertuliskan pico, kemudia saya cek sedikit kebawah ada transfer lagi dengan len 1 yang bertuliskan p kemudian i , c ,o
+ketika saya follow log tersebut, BINGO YOU FOUND THE FLAG

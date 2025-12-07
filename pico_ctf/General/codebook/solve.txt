@@ -1,0 +1,1 @@
+kalian hanya perlu jalankan kodenya saja dan pastikan kode dan file book nya berada di directory yang sama. BINGO YOU FOUND THE FLAG

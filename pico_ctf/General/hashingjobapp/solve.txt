@@ -1,0 +1,1 @@
+untuk tantangan ini kita di minta buat merubah kata yang ia berikan menjadi hash MD5 lalu kalian input saja hasil hash kata yang ia minta, BINGO YOU FOUND THE FLAG

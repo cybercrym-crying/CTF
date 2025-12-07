@@ -1,0 +1,2 @@
+pada tantangan ini kita harus bisa dan tau cara menggunakan ssh jadi kalian bisa bertanya ke AI atau search sendiri tentang ssh, setelah berhasil connect kita tinggal cek list file 
+di lokasi sekarang ternyata ada flag dan intruksi dimana lokasi flag nya , kemudia gabungkan ketiga pecahan flag. BINGO YOU FOUND THE FLAG

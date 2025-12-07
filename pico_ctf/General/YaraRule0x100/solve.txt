@@ -1,0 +1,21 @@
+YEP pada tantangan ini kita akan belajar mengenai YARA RULE salah satu cara untuk mendeteksi file berbahaya dengan melihan kemiripan sebuah file dengan kode nya
+aku cukup kesulitan karena ini pertamakalinya aku mencoba menganalisah sebuah malware atau file berbahaya ini, mengunakan YARA cukup mudah kita tinggal menulis saja hal yang
+mencurigakan dari isi kode nya seperti ini:
+
+rule nama_rule {
+	string: 
+		#Dimana kita bisa memasukan kode mencurigakan disini,dapat berupa hex,string dll kalian bisa baca baca saja nanti tentang YARA
+		$nama1 = "kode mencurigakan1"
+		$nama2 = "kode mencurigakan2"
+	condition:
+		#Ini akan mengecek apakah ada di antara kode ini di file maka tangkap
+		$nama1 or nama2
+}
+oke itu untuk pengenalannnya
+setelah kita paham mengenai yara aku kemudian mengecek isi file mencurigakan tersebut dengan strings
+setelah berjam jam mencari tahu arti dari file tersebut dan gagal dengan 1 kondisi masih salah, aku baru mengetahui file ini ternyata di pack dengan UPX akhirnya aku unpack 
+dengan upx, kemudian saat aku lihat dengan strings kode aslinya terlihat, aku kemudian mencari tahu apa arti kode kode ini seperti OperationAccessToken dan kode lainnya
+aku menemukan 7 hal  pada kode yang mencurigakan dan kemudian aku masukan pada rule yara, namun masih ada permasalahn dimana tidak mungkin sebuah file mengandung 7 kode itu
+jadi aku mencari tahu lagi tentang yara dan teryata kita bisa menggunakan "3 of them" dimana kode ini akan menangkap file yang memenuhi minimal 3 kriteria dari 7 kode berbahaya tadi
+saat ku input akhirnya kita mendapatkan flagnya, BINGO YOU FOUND THE FLAG
+

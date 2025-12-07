@@ -1,0 +1,2 @@
+Untuk tantangan ini kita di beri kode python dimana ada error pada bagian "if" bisa dilihat bahwa pengecekan kondisinya menggunakan "=" bukan "==" yang maknanya berbeda
+dimana "=" untuk menampung nilai objek dan "==" untuk mengecek objek sama atau tidak dengan perbandingannya jadi tinggal kita tambahkan saja, BINGO YOU FOUND THE FLAG

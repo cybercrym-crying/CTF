@@ -1,0 +1,2 @@
+jadi file di tantangan ini berupa elf atau execute file jika di lihat dari hexdump nya kemudia saya perbaiki nama file nya dan say beri permission execute ke file ini, setelah di jalankan
+program tersebut meminta kita memberi -h jadi tinggal "./file.elf -h" maka akan di beri sebuah flag. BINGO YOU FOUND THE FLAG

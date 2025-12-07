@@ -1,0 +1,12 @@
+ok pertama tama kalian harus baca dulu tentang struktur header file BMP,
+nah di tantangan ini ketika saya cek file nya dengan xxd ternyata file ini aslinya
+menggunakan format BMP jadi saya ubah dulu namanya kemudian setalh saya baca tentang
+struktur file hex dump file ini di internet saya menemukan 3 kesalahan
+1. ukuran offset hingga 53000+ byte padahal jika di hitung hanya sampai 54 byte
+2. ukuran dib header juga salah harusnya hanya 40 byte
+3. tiggi gambar gambar ini tidak sesuai dengan yang di tulis hingga 20000
+FYI length itu tinggi ya teman teman hanya penulisannya saja yang berbeda tapi artinya
+sama yaitu merujuk ke tampilan tinggi gambar
+setelah itu saya perbaiki semuanya sesuai dengan ukuran masing masing dengan bentuk
+litle endian pastinya karena bmp pakai little endian guys jadi terbalik hex nya
+dan ketika file gambar di buka. BINGO YOU FOUND THE FLAG
