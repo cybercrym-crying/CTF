@@ -1,0 +1,3 @@
+Pada tantangan ini kita di beri sebuah partisi pertama dari sebuah disk dengan filesystem ext3 setelah aku selidiki disk nya tidak ada yang aneh dan aku bingung, akhirnya dari hint yang di berikan aku mengetahui
+apa itu slack space, dimana itu adalah sisa ruang kosong pada sebuah cluster karena sebuah file biasanya lebih besar dari ukuran cluster mungkin kalian bisa cari di internet mengenai hal
+itu, kemudian aku mencari tau bagaimana cara melihat slack space itu, ternyata kita bisa mengekstrak nya dengan sleuthkit dari command blkls akhirnya aku ekstrak. BINGO YOU FOUND THE FLAG 
