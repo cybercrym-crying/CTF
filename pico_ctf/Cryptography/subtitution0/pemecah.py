@@ -1,0 +1,22 @@
+asli = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+subtitusi = "OHNFUMWSVZLXEGCPTAJDYIRKQB"
+flag_acak = """OHNFUMWSVZLXEGCPTAJDYIRKQB 
+
+Suauypcg Xuwaogf oacju, rvds o waoiu ogf jdoduxq ova, ogf hacywsd eu dsu huudxu
+mace o wxojj noju vg rsvns vd roj ugnxcjuf. Vd roj o huoydvmyx jnoaohouyj, ogf, od
+dsod dveu, yglgcrg dc godyaoxvjdj—cm ncyaju o wauod pavbu vg o jnvugdvmvn pcvgd
+cm ivur. Dsuau ruau drc acygf hxonl jpcdj guoa cgu ukdauevdq cm dsu honl, ogf o
+xcgw cgu guoa dsu cdsua. Dsu jnoxuj ruau uknuufvgwxq soaf ogf wxcjjq, rvds oxx dsu
+oppuoaognu cm hyagvjsuf wcxf. Dsu ruvwsd cm dsu vgjund roj iuaq aueoalohxu, ogf,
+dolvgw oxx dsvgwj vgdc ncgjvfuaodvcg, V ncyxf soafxq hxoeu Zypvdua mca svj cpvgvcg
+aujpundvgw vd.
+
+Dsu mxow vj: pvncNDM{5YH5717Y710G_3I0XY710G_03055505}"""
+flag_asli = ""
+for i in range(0, len(flag_acak)):
+    if flag_acak[i].islower() and flag_acak[i] in asli.lower():
+        print(asli[subtitusi.lower().find(flag_acak[i])].lower(), end="")
+    elif flag_acak[i].isupper() and flag_acak[i] in asli:
+        print(asli[subtitusi.find(flag_acak[i])], end="")
+    else:
+        print(flag_acak[i], end="")
